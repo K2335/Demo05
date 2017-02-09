@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Teht01
 {
-    class Program
+    class Person
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
